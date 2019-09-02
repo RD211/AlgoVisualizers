@@ -1,0 +1,26 @@
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Visualizers.exe.config
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Visualizers.exe
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Visualizers.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.Properties.Resources.resources
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.csproj.CopyComplete
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.exe
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Debug\Visualizers.Dashboard.resources
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Priority Queue.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Priority Queue.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Priority Queue.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\BigInteger.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.DXGI.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Debug\SharpDX.DXGI.xml

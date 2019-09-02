@@ -1,0 +1,32 @@
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Visualizers.exe.config
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Visualizers.exe
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Visualizers.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\BigInteger.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Newtonsoft.Json.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Priority Queue.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.DXGI.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Newtonsoft.Json.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Priority Queue.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\Priority Queue.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.Direct2D1.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.DXGI.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\SharpDX.DXGI.xml
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.Dashboard.resources
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.Properties.Resources.resources
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.csproj.CopyComplete
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.exe
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.pdb
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\MetroFramework.Design.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\MetroFramework.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\MetroFramework.Fonts.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\bin\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\David\source\repos\Visualizers\Visualizers\obj\Release\Visualizers.csproj.ResolveComReference.cache
